@@ -61,3 +61,31 @@ header {
 
 
 /* main (section-failures) part end */
+
+
+/* challenge section start */
+
+.challenge-section {
+    display: flex;
+    gap: 100px;
+    margin-top: 150px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.challenge-section .challenge-description h3 {
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.challenge-section .challenge-description .btn-primary {
+    width: 80px;
+    height: 50px;
+    color: aqua;
+    background-color: black;
+    margin-top: 25px;
+    border-radius: 10px;
+}
+
+
+/* challenge section end */
