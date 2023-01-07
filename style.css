@@ -141,3 +141,58 @@ header {
 
 
 /* mindset styles end */
+
+
+/* footer styles start */
+
+footer {
+    background-color: #262626;
+}
+
+.footer-description {
+    display: flex;
+    gap: 200px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 150px;
+    padding-bottom: 50px;
+}
+
+.footer-description .footer-title h4 {
+    font-size: 32px;
+    color: aliceblue;
+}
+
+.footer-description .footer-title p {
+    color: white;
+    font-size: 16px;
+}
+
+.footer-description .footer-title h6 {
+    color: whitesmoke;
+}
+
+.footer-description .footer-contact h4 {
+    font-size: 32px;
+    color: aliceblue;
+}
+
+.footer-description .footer-contact .footer-mail {
+    background-color: #262626;
+    border-radius: 5px;
+    font-size: 18px;
+    border-color: whitesmoke;
+}
+
+.footer-description .footer-contact .footer-btn {
+    font-size: 20px;
+    margin-top: 20px;
+    text-align: center;
+    background-color: blue;
+    color: white;
+    border-radius: 3px;
+    border-color: white;
+}
+
+
+/* footer styles end */
