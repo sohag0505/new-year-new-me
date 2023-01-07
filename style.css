@@ -182,16 +182,18 @@ footer {
     border-radius: 5px;
     font-size: 18px;
     border-color: whitesmoke;
+    padding: 10px;
 }
 
 .footer-description .footer-contact .footer-btn {
-    font-size: 20px;
+    font-size: 1opx;
     margin-top: 20px;
     text-align: center;
     background-color: blue;
     color: white;
     border-radius: 3px;
     border-color: white;
+    padding: 12px;
 }
 
 
